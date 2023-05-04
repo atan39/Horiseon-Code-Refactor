@@ -22,9 +22,13 @@ The code was repetitive so it needed to be modified. Modifiying the code will al
 
 ## Usage
 
+The following images show the HTML structure of the website which show that the website stayed the same but the code was changed.
+
 ![horiseon1](https://user-images.githubusercontent.com/126987766/236349134-d49f9f66-9d3d-4fe2-9707-dbc42d704e64.PNG)
 
+![horiseon2](https://user-images.githubusercontent.com/126987766/236349311-1a8cc3f8-2da7-4ed9-949c-336890b8c36d.PNG)
 
+https://github.com/atan39/Horiseon-Code-Refactor
 
 
 ## Code Style
