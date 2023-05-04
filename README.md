@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Motivation](#motivation)
+* [Usage](#usage)
 * [Code style](#code-style)
 * [Credits](#credits)
 
@@ -18,6 +19,13 @@ Project was created with
 While the website looked good, it could be updated for people who don't know how to use technology as well as others. 
 
 The code was repetitive so it needed to be modified. Modifiying the code will allow updates to the website be more efficent. 
+
+## Usage
+
+![horiseon1](https://user-images.githubusercontent.com/126987766/236349134-d49f9f66-9d3d-4fe2-9707-dbc42d704e64.PNG)
+
+
+
 
 ## Code Style
 THis project created with
