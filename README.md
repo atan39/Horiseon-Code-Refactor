@@ -29,6 +29,8 @@ The following images show the HTML structure of the website which show that the 
 ![horiseon2](https://user-images.githubusercontent.com/126987766/236349311-1a8cc3f8-2da7-4ed9-949c-336890b8c36d.PNG)
 
 https://github.com/atan39/Horiseon-Code-Refactor
+https://atan39.github.io/Horiseon-Code-Refactor/
+
 
 
 ## Code Style
